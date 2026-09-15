@@ -1,6 +1,5 @@
 # Hello
 
----
 
 ### My name is ibrrus i love medineshku and she samaya best, and I am an aspiring mobile developer.
 
@@ -9,7 +8,6 @@
 - From Russia
 - MacOS user
   
----
 
 ## Tech stack
 
@@ -25,7 +23,6 @@
 #### Tools:
 ![VSCode](https://img.shields.io/badge/vscode-292929?style=for-the-badge&logo=vscode&label=IDE&labelColor=blue) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=vscode&label=Source%20control&labelColor=grey)
 
----
 
 ## My activity
 
