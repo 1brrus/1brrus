@@ -1,7 +1,7 @@
 # Hello
 
 
-### My name is ibrrus i love medineshku and she samaya best, and I am an aspiring mobile developer.
+### My name is ibrrus. I am an aspiring mobile developer.
 
 - Real name Ruslan
 - 17 years old
