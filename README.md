@@ -4,7 +4,7 @@
 ### My name is ibrrus. I am an aspiring mobile developer.
 
 - Real name Ruslan
-- 17 years old
+- 18 years old
 - From Russia
 - MacOS user
   
